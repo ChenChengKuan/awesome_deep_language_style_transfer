@@ -15,7 +15,7 @@ Workshop on Stylistic Variation([slide](https://drive.google.com/file/d/0Bzjv7Vf
   * Controlling Linguistic Style Aspects in Neural Language Generation, Jessica Ficler, Yoav Goldberg, EMNLP 2017 Workshop on Stylistic Variation ([slides](https://drive.google.com/file/d/0Bzjv7VfckQWiUElucEV0LXM4Mk42dGF5aTZIbEZwOWpTLW5n/view))([paper](http://www.aclweb.org/anthology/W/W17/W17-4912.pdf))
   * Toward Controlled Generation of Text, Hu et al. ICML 2017, ([slides](http://www.cs.cmu.edu/~zhitingh/data/icml17toward_slides.pdf))([paper](https://arxiv.org/pdf/1703.00955.pdf))
   * Style Transfer from Non-Parallel Text by Cross-Alignment, Shen et al., NIPS 2017 ([paper](https://arxiv.org/pdf/1705.09655.pdf))
-  * Others: Please refer to [EMNLP 2017 Workshop on Stylistic Variation]()
+  * Others: Please refer to [EMNLP 2017 Workshop on Stylistic Variation](https://sites.google.com/site/workshoponstylisticvariation/program)
   
  
  
