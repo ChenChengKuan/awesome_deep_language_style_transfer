@@ -12,7 +12,7 @@ Workshop on Stylistic Variation([slide](https://drive.google.com/file/d/0Bzjv7Vf
     List several method to extract language style feature, aspect of languague style research and several related work
     
 ## Papers
-  * Style Transfer in Text: Exploration and Evaluation ([paper](https://arxiv.org/abs/1711.06861),Arxiv)
+  * Style Transfer in Text: Exploration and Evaluation ([paper](https://arxiv.org/abs/1711.06861),AAAI 2018)
   * Low-Rank RNN Adaptation for Context-Aware Language Modeling ([paper](https://arxiv.org/abs/1710.02603), Arxiv)
   * Improved Neural Text Attribute Transfer with Non-parallel Dat ([paper](https://arxiv.org/abs/1711.09395), Arxiv)
   * Controlling Linguistic Style Aspects in Neural Language Generation, Jessica Ficler, Yoav Goldberg, EMNLP 2017 Workshop on Stylistic Variation ([slides](https://drive.google.com/file/d/0Bzjv7VfckQWiUElucEV0LXM4Mk42dGF5aTZIbEZwOWpTLW5n/view))([paper](http://www.aclweb.org/anthology/W/W17/W17-4912.pdf))
